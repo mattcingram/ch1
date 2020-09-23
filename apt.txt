@@ -1,6 +1,5 @@
 dvipng
 ghostscript
-
 octave
 octave-symbolic
 octave-miscellaneous
@@ -8,7 +7,6 @@ gnuplot
 ghostscript
 r-base
 r-recommended
-
 texlive-fonts-recommended
 texlive-generic-recommended
 texlive-latex-base

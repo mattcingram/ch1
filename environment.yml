@@ -1,0 +1,9 @@
+dependencies:
+  - matplotlib
+  - numpy
+  - sympy
+  - scipy
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - octave_kernel
+  - pip

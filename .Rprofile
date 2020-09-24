@@ -1,1 +1,1 @@
-.libPaths( c( "~/binder/R/packages", .libPaths()) )
+.libPaths( c( "~/R/packages", .libPaths()) )

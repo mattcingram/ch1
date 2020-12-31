@@ -2,6 +2,7 @@ channels:
     - conda-forge
 dependencies:
   - python
+  - pandas
   - matplotlib
   - numpy
   - setuptools
@@ -14,3 +15,16 @@ dependencies:
   - jupyterlab
   - pip:
     - jupyterlab_latex
+
+
+import os      # to manage operating system
+import pandas as pd  # package to manage data
+import io      # manage input/output requests
+import requests   # manage web requests
+import numpy as np   # core methods package for math and to manage various data objects; many other uses
+import matplotlib.pyplot as plt  # plotting library
+from sklearn import linear_model   # data science library
+import statsmodels.formula.api as sm  # statistics library
+import seaborn as sns   # data visualization library
+import inspect # contains getsource() function to inspect source code
+import platform # to check identifying info of python, e.g., version

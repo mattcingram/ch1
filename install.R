@@ -9,10 +9,6 @@ install.packages(mypackages2, lib="~/R/packages", verbose=TRUE)
 devtools::install_github('IRkernel/IRkernel', lib="~/R/packages")
 IRkernel::installspec(user=TRUE,rprofile="~/.Rprofile")
 
-
-
-  
-
 install.packages("tidyverse", lib="~/R/packages")
 install.packages("rmarkdown", lib="~/R/packages")
 install.packages("httr", lib="~/R/packages")

@@ -1,6 +1,0 @@
-dvipng
-ghostscript
-gnuplot
-ghostscript
-r-base
-r-recommended

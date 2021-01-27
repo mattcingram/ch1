@@ -18,4 +18,4 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 
 # install JupyterLab extension
-jupyter labextension install @jupyterlab/latex
+# jupyter labextension install @jupyterlab/latex  # commented out since tex not installed in this repository
